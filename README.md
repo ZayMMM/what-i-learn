@@ -1,2 +1,2 @@
 # what-i-learn
-*** what I lean ***
+> what I lean
